@@ -1,0 +1,7 @@
+A;200;Un excellent livre;850;5;1640;Potable
+E;888;UN LIVRE;300;0;true;true
+A;400;Langage Java;600;4;1940;Bon
+E;500;HTML 5 pour les nulls;100;3;false;true
+A;100;Titanic;500;1;1710;Mauvais
+A;999;Un autre bon livre;340;5;1900;Excellent
+A;300;Pinoccio;100;5;1875;Potable
