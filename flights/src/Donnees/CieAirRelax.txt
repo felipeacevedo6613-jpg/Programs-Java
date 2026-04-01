@@ -1,0 +1,4 @@
+R;14567;Toronto;12;7;2024;20;400;true;false;true;true;false;true
+B;17890;Guadeloupe;1;8;2024;40;300;false;false;true;false;false;true
+P;19012;Nouvelle-Orléans;3;5;2025;5;400;true;true;true;true;true;true
+C;53456;San Francisco;10;4;2025;15;100;true;false;true;true;false;true
